@@ -22,7 +22,7 @@ export default defineConfig({
     // },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/ginlink/gin-navs" },
+      { icon: "github", link: "https://github.com/ginlink/site-nav" },
     ],
   },
 });
